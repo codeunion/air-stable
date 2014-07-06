@@ -1,0 +1,726 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="2383" measuredH="1444" mockupW="2325" mockupH="1344">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="58" y="152" w="258" h="524" measuredW="450" measuredH="400" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>AirStable%0Ahttp%3A//airstable.com/</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="80" y="236" w="-1" h="-1" measuredW="179" measuredH="43" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Air%20Stable</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::CallOut" x="58" y="100" w="-1" h="-1" measuredW="167" measuredH="43" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Home%20Page%2C%20Guest%20User</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="80" y="309" w="-1" h="-1" measuredW="87" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Email%20Address%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Paragraph" x="80" y="279" w="194" h="15" measuredW="275" measuredH="80" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Share%20a%20%22Neigh%22-borly%20stable%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="80" y="362" w="-1" h="-1" measuredW="59" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Password%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="80" y="417" w="209" h="41" measuredW="61" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Log%20In</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::TextInput" x="80" y="330" w="209" h="-1" measuredW="79" measuredH="26" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::TextInput" x="80" y="383" w="209" h="-1" measuredW="79" measuredH="26" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Paragraph" x="80" y="473" w="209" h="23" measuredW="275" measuredH="80" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Not%20a%20member%3F%20%5BRegister%20Now%21%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="352" y="156" w="258" h="524" measuredW="450" measuredH="400" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>AirStable%0Ahttp%3A//airstable.com/</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Title" x="377" y="256" w="-1" h="-1" measuredW="179" measuredH="43" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Air%20Stable</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::CallOut" x="352" y="113" w="-1" h="-1" measuredW="181" measuredH="37" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sign%20Up%20Page%2C%20Guest%20User</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="377" y="388" w="-1" h="-1" measuredW="87" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Email%20Address%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Paragraph" x="377" y="299" w="194" h="15" measuredW="275" measuredH="80" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Share%20a%20%22Neigh%22-borly%20stable%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Label" x="377" y="443" w="-1" h="-1" measuredW="59" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Password%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Button" x="377" y="552" w="209" h="41" measuredW="73" measuredH="27" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Register</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::TextInput" x="377" y="409" w="209" h="-1" measuredW="79" measuredH="26" zOrder="18" locked="false" isInGroup="-1"/>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::TextInput" x="377" y="464" w="209" h="-1" measuredW="79" measuredH="26" zOrder="19" locked="false" isInGroup="-1"/>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::Paragraph" x="377" y="608" w="209" h="23" measuredW="275" measuredH="80" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Already%20a%20member%3F%20%5BLog%20in%21%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Label" x="377" y="496" w="-1" h="-1" measuredW="108" measuredH="21" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Confirm%20Password%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::TextInput" x="377" y="517" w="209" h="-1" measuredW="79" measuredH="26" zOrder="22" locked="false" isInGroup="-1"/>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Label" x="377" y="334" w="-1" h="-1" measuredW="195" measuredH="21" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nick%20Name%3A%20%28How%20others%20see%20you%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::TextInput" x="377" y="355" w="209" h="-1" measuredW="79" measuredH="26" zOrder="24" locked="false" isInGroup="-1"/>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Arrow" x="235" y="309" w="132" h="177" measuredW="150" measuredH="100" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>-1</curvature>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Arrow" x="265" y="309" w="216" h="308" measuredW="150" measuredH="100" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>-1</curvature>
+        <rightArrow>false</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="895" y="144" w="267" h="526" measuredW="450" measuredH="400" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>AirStable%0Ahttp%3A//airstable.com/</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Title" x="920" y="244" w="-1" h="-1" measuredW="179" measuredH="43" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Air%20Stable</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::CallOut" x="895" y="101" w="-1" h="-1" measuredW="196" measuredH="40" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Home%20Page%2C%20Registered%20User</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Paragraph" x="920" y="287" w="194" h="15" measuredW="275" measuredH="80" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Share%20a%20%22Neigh%22-borly%20stable%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Paragraph" x="920" y="345" w="209" h="22" measuredW="275" measuredH="80" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>%5BAce%20Acres%20North%20Stall%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Paragraph" x="920" y="367" w="183" h="14" measuredW="275" measuredH="80" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <text>_Oakland%2C%20CA%20-%2094610_</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::SearchBox" x="920" y="307" w="194" h="-1" measuredW="120" measuredH="25" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Oakland%2C%20CA</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Paragraph" x="920" y="396" w="209" h="22" measuredW="275" measuredH="80" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>%5BAce%20Acres%20Center%20Stall%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Paragraph" x="920" y="418" w="183" h="14" measuredW="275" measuredH="80" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <text>_Oakland%2C%20CA%20-%2094610_</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Paragraph" x="920" y="445" w="209" h="22" measuredW="275" measuredH="80" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>%5BPony%20Playground%20Stall%201%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Paragraph" x="920" y="467" w="183" h="14" measuredW="275" measuredH="80" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <text>_Oakland%2C%20CA%20-%2094606_</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Paragraph" x="920" y="488" w="209" h="22" measuredW="275" measuredH="80" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>%5BPony%20Playground%20Stall%202%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Paragraph" x="920" y="510" w="183" h="14" measuredW="275" measuredH="80" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <text>_Oakland%2C%20CA%20-%2094606_</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="1146" y="214" w="-1" h="431" measuredW="16" measuredH="100" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <value>0</value>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Paragraph" x="920" y="539" w="209" h="22" measuredW="275" measuredH="80" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>%5BTilda%27s%20Place%20Stall%20A%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Paragraph" x="920" y="561" w="183" h="14" measuredW="275" measuredH="80" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <text>_Oakland%2C%20CA%20-%2094611_</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::StickyNote" x="772" y="179" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20search%20bar%20remains%20visible%20as%20the%20page%20scrolls.</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Arrow" x="853" y="279" w="67" h="48" measuredW="150" measuredH="100" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>-1</curvature>
+        <leftArrow>false</leftArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Arrow" x="853" y="643" w="75" h="17" measuredW="150" measuredH="100" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>-1</curvature>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <stroke>solid</stroke>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="920" y="791" w="267" h="526" measuredW="450" measuredH="400" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>AirStable%0Ahttp%3A//airstable.com/</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Title" x="945" y="891" w="-1" h="-1" measuredW="179" measuredH="43" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Air%20Stable</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::CallOut" x="920" y="748" w="-1" h="-1" measuredW="186" measuredH="39" zOrder="48" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Dashboard%2C%20Signed%20in%20User</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Paragraph" x="945" y="934" w="194" h="15" measuredW="275" measuredH="80" zOrder="49" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Share%20a%20%22Neigh%22-borly%20stable%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="1240" y="156" w="267" h="526" measuredW="450" measuredH="400" zOrder="50" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>AirStable%0Ahttp%3A//airstable.com/</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Title" x="1265" y="256" w="-1" h="-1" measuredW="179" measuredH="43" zOrder="51" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Air%20Stable</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::CallOut" x="1240" y="113" w="263" h="43" measuredW="180" measuredH="43" zOrder="52" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Stall%20Page%2C%20Signed%20in%20User</text>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Paragraph" x="1265" y="299" w="194" h="15" measuredW="275" measuredH="80" zOrder="53" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Share%20a%20%22Neigh%22-borly%20stable%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::Paragraph" x="1266" y="354" w="183" h="34" measuredW="275" measuredH="80" zOrder="54" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <text>_Oakland%2C%20CA%20-%2094610_%20-%20Listed%20by%20%5Buser%20153%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::Paragraph" x="1266" y="327" w="209" h="22" measuredW="275" measuredH="80" zOrder="55" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Ace%20Acres%20North%20Stall</text>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::Paragraph" x="1266" y="404" w="209" h="147" measuredW="275" measuredH="80" zOrder="56" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipiscing%20elit.%20Nam%20volutpat%2C%20dolor%20vel%20facilisis%20egestas%2C%20orci%20orci%20sollicitudin%20erat%2C%20in%20lacinia%20libero%20nibh%20a%20leo.%20Duis%20congue%20sem%20ac%20nunc%20dictum%2C%20quis%20pharetra%20lacus%20scelerisque.%20Praesent%20ullamcorper%20libero%20sed%20arcu%20dapibus%20aliquam.</text>
+      </controlProperties>
+    </control>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::Button" x="1258" y="559" w="230" h="57" measuredW="123" measuredH="27" zOrder="57" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Request%20to%20Rent%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="80" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="1658" y="187" w="267" h="526" measuredW="450" measuredH="400" zOrder="58" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>AirStable%0Ahttp%3A//airstable.com/</text>
+      </controlProperties>
+    </control>
+    <control controlID="81" controlTypeID="com.balsamiq.mockups::Title" x="1683" y="287" w="-1" h="-1" measuredW="179" measuredH="43" zOrder="59" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Air%20Stable</text>
+      </controlProperties>
+    </control>
+    <control controlID="82" controlTypeID="com.balsamiq.mockups::CallOut" x="1658" y="144" w="263" h="43" measuredW="234" measuredH="39" zOrder="60" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Request%20Stall%20Page%2C%20Signed%20in%20User</text>
+      </controlProperties>
+    </control>
+    <control controlID="83" controlTypeID="com.balsamiq.mockups::Paragraph" x="1683" y="330" w="194" h="15" measuredW="275" measuredH="80" zOrder="61" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Share%20a%20%22Neigh%22-borly%20stable%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::Paragraph" x="1683" y="380" w="220" h="34" measuredW="275" measuredH="80" zOrder="62" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <text>_Oakland%2C%20CA%20-%2094610_%0AListed%20by%20%5Buser%20153%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::Paragraph" x="1684" y="358" w="221" h="22" measuredW="275" measuredH="80" zOrder="63" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Ace%20Acres%20North%20Stall</text>
+      </controlProperties>
+    </control>
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::Button" x="1676" y="590" w="229" h="57" measuredW="110" measuredH="27" zOrder="64" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Send%20Request%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="89" controlTypeID="com.balsamiq.mockups::Arrow" x="1502" y="315" w="162" h="271" measuredW="150" measuredH="100" zOrder="65" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>-1</curvature>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="91" controlTypeID="com.balsamiq.mockups::DateChooser" x="1676" y="447" w="229" h="-1" measuredW="135" measuredH="25" zOrder="66" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>07/29/2014%20%20%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="92" controlTypeID="com.balsamiq.mockups::Label" x="1676" y="426" w="-1" h="-1" measuredW="106" measuredH="21" zOrder="67" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Date%20To%20Reserve%3A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="94" controlTypeID="com.balsamiq.mockups::StickyNote" x="1884" y="330" w="207" h="106" measuredW="109" measuredH="123" zOrder="68" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Use%20an%20HTML5%20%22date%22%20input%3A%20http%3A//html5doctor.com/html5-forms-input-types/%23dates-and-times</text>
+      </controlProperties>
+    </control>
+    <control controlID="95" controlTypeID="com.balsamiq.mockups::TextArea" x="1676" y="502" w="228" h="79" measuredW="200" measuredH="140" zOrder="69" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Hi%21%0A%20%0AI%20was%20hoping%20to%20visit%20Oakland%20with%20my%20horse%2C%20Rocky%20Balboa.%20He%27s%20very%20friendly%20and%20old%3B%20and%20I%20would%20love%20to%20board%20him%20at%20Ace%20Acres%20for%20the%20week%20I%27m%20there.%20If%20you%20approvethis%20request%20I%27ll%20send%20requests%20for%20others%21%0A%20%0AZee</text>
+      </controlProperties>
+    </control>
+    <control controlID="96" controlTypeID="com.balsamiq.mockups::Label" x="1676" y="479" w="127" h="-1" measuredW="127" measuredH="21" zOrder="70" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Message%20to%20user%20153%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="97" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="2116" y="185" w="267" h="526" measuredW="450" measuredH="400" zOrder="71" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>AirStable%0Ahttp%3A//airstable.com/</text>
+      </controlProperties>
+    </control>
+    <control controlID="98" controlTypeID="com.balsamiq.mockups::Title" x="2141" y="285" w="-1" h="-1" measuredW="179" measuredH="43" zOrder="72" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Air%20Stable</text>
+      </controlProperties>
+    </control>
+    <control controlID="99" controlTypeID="com.balsamiq.mockups::CallOut" x="2116" y="142" w="263" h="43" measuredW="412" measuredH="39" zOrder="73" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Dahsboard%20Page%2C%20Signed%20in%20User%2C%20Immediately%20after%20Request%20Sent</text>
+      </controlProperties>
+    </control>
+    <control controlID="100" controlTypeID="com.balsamiq.mockups::Paragraph" x="2141" y="328" w="194" h="15" measuredW="275" measuredH="80" zOrder="74" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Share%20a%20%22Neigh%22-borly%20stable%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="102" controlTypeID="com.balsamiq.mockups::Paragraph" x="2134" y="356" w="230" h="40" measuredW="275" measuredH="80" zOrder="76" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <text>_Your%20request%20for%20Ace%20Acres%20has%20been%20sent%21_</text>
+      </controlProperties>
+    </control>
+    <control controlID="103" controlTypeID="com.balsamiq.mockups::SubTitle" x="2134" y="435" w="-1" h="-1" measuredW="214" measuredH="27" zOrder="77" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Outgoing%20Requests</text>
+      </controlProperties>
+    </control>
+    <control controlID="105" controlTypeID="com.balsamiq.mockups::Paragraph" x="2134" y="579" w="220" h="68" measuredW="275" measuredH="80" zOrder="78" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <text>Ace%20Acres%20North%20Stall%20-%20PENDING%0A7/29/2014%0A_Oakland%2C%20CA%20-%2094610_%0AListed%20by%20%5Buser%20153%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="109" controlTypeID="com.balsamiq.mockups::Paragraph" x="2134" y="469" w="220" h="67" measuredW="275" measuredH="80" zOrder="79" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <text>Persimmon%20Farms%20-%20ACCEPTED%0A%207/22/2014%20%0A_Portland%2C%20OR%20-%2097201_%0AListed%20by%20%5Bdream_of_the_90s%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="110" controlTypeID="com.balsamiq.mockups::Button" x="2134" y="540" w="230" h="29" measuredW="64" measuredH="27" zOrder="80" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cancel</text>
+      </controlProperties>
+    </control>
+    <control controlID="111" controlTypeID="com.balsamiq.mockups::StickyNote" x="772" y="625" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20footer%20remains%20visible%20as%20the%20page%20scrolls.</text>
+      </controlProperties>
+    </control>
+    <control controlID="112" controlTypeID="com.balsamiq.mockups::StickyNote" x="1977" y="657" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="81" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20footer%20remains%20visible%20as%20the%20page%20scrolls.</text>
+      </controlProperties>
+    </control>
+    <control controlID="113" controlTypeID="com.balsamiq.mockups::Arrow" x="2059" y="678" w="75" h="17" measuredW="150" measuredH="100" zOrder="96" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>-1</curvature>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <stroke>solid</stroke>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="114" controlTypeID="com.balsamiq.mockups::Button" x="2134" y="393" w="230" h="28" measuredW="86" measuredH="27" zOrder="82" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Add%20a%20Stall</text>
+      </controlProperties>
+    </control>
+    <control controlID="115" controlTypeID="com.balsamiq.mockups::Arrow" x="1892" y="330" w="249" h="295" measuredW="150" measuredH="100" zOrder="83" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>-1</curvature>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="117" controlTypeID="com.balsamiq.mockups::Button" x="937" y="956" w="230" h="28" measuredW="86" measuredH="27" zOrder="84" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Add%20a%20Stall</text>
+      </controlProperties>
+    </control>
+    <control controlID="119" controlTypeID="com.balsamiq.mockups::Button" x="2134" y="649" w="230" h="29" measuredW="64" measuredH="27" zOrder="75" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cancel</text>
+      </controlProperties>
+    </control>
+    <control controlID="124" controlTypeID="__group__" x="1240" y="619" w="267" h="38" measuredW="267" measuredH="38" zOrder="85" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="267" h="38" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="124">
+          <controlProperties>
+            <color>10066329</color>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::LinkBar" x="18" y="11" w="-1" h="-1" measuredW="230" measuredH="20" zOrder="1" locked="false" isInGroup="124">
+          <controlProperties>
+            <size>14</size>
+            <text>Dashboard%2C%20Find%20a%20Stall%2C%20Log%20Out</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="125" controlTypeID="__group__" x="1658" y="648" w="267" h="38" measuredW="267" measuredH="38" zOrder="86" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="267" h="38" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="125">
+          <controlProperties>
+            <color>10066329</color>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::LinkBar" x="18" y="11" w="-1" h="-1" measuredW="230" measuredH="20" zOrder="1" locked="false" isInGroup="125">
+          <controlProperties>
+            <size>14</size>
+            <text>Dashboard%2C%20Find%20a%20Stall%2C%20Log%20Out</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="126" controlTypeID="__group__" x="2116" y="657" w="267" h="38" measuredW="267" measuredH="38" zOrder="87" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="267" h="38" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="126">
+          <controlProperties>
+            <color>10066329</color>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::LinkBar" x="18" y="11" w="-1" h="-1" measuredW="230" measuredH="20" zOrder="1" locked="false" isInGroup="126">
+          <controlProperties>
+            <size>14</size>
+            <text>Dashboard%2C%20Find%20a%20Stall%2C%20Log%20Out</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="127" controlTypeID="__group__" x="895" y="608" w="267" h="38" measuredW="267" measuredH="38" zOrder="90" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="267" h="38" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="127">
+          <controlProperties>
+            <color>10066329</color>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::LinkBar" x="18" y="11" w="-1" h="-1" measuredW="230" measuredH="20" zOrder="1" locked="false" isInGroup="127">
+          <controlProperties>
+            <size>14</size>
+            <text>Dashboard%2C%20Find%20a%20Stall%2C%20Log%20Out</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="128" controlTypeID="__group__" x="920" y="1253" w="267" h="38" measuredW="267" measuredH="38" zOrder="102" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="267" h="38" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="128">
+          <controlProperties>
+            <color>10066329</color>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::LinkBar" x="18" y="11" w="-1" h="-1" measuredW="230" measuredH="20" zOrder="1" locked="false" isInGroup="128">
+          <controlProperties>
+            <size>14</size>
+            <text>Dashboard%2C%20Find%20a%20Stall%2C%20Log%20Out</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="129" controlTypeID="com.balsamiq.mockups::Paragraph" x="920" y="591" w="209" h="22" measuredW="275" measuredH="80" zOrder="88" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>%5BTilda%27s%20Place%20Stall%20B%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="130" controlTypeID="com.balsamiq.mockups::Paragraph" x="920" y="613" w="183" h="14" measuredW="275" measuredH="80" zOrder="89" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <text>_Oakland%2C%20CA%20-%2094611_</text>
+      </controlProperties>
+    </control>
+    <control controlID="131" controlTypeID="com.balsamiq.mockups::SubTitle" x="937" y="1204" w="-1" h="-1" measuredW="214" measuredH="27" zOrder="91" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Outgoing%20Requests</text>
+      </controlProperties>
+    </control>
+    <control controlID="132" controlTypeID="com.balsamiq.mockups::SubTitle" x="937" y="999" w="-1" h="-1" measuredW="214" measuredH="27" zOrder="92" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Incoming%20Requests</text>
+      </controlProperties>
+    </control>
+    <control controlID="134" controlTypeID="com.balsamiq.mockups::StickyNote" x="736" y="990" w="109" h="153" measuredW="109" measuredH="123" zOrder="93" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Only%20visible%20if%20the%20user%20has%20a%20stall%20and%20pending%20requests%20to%20visit%20one%20of%20their%20stalls</text>
+      </controlProperties>
+    </control>
+    <control controlID="135" controlTypeID="com.balsamiq.mockups::Arrow" x="828" y="1014" w="117" h="49" measuredW="150" measuredH="100" zOrder="94" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>-1</curvature>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="136" controlTypeID="com.balsamiq.mockups::Paragraph" x="937" y="1241" w="220" h="67" measuredW="275" measuredH="80" zOrder="95" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <text>Persimmon%20Farms%20-%20ACCEPTED%0A%207/22/2014%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="138" controlTypeID="com.balsamiq.mockups::Paragraph" x="937" y="1033" w="220" h="96" measuredW="275" measuredH="80" zOrder="97" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <text>Green%20Acres%20-%208/28/2014%0A_Hi%2C%20I%20really%20love%20your%20farm.%20Could%20I%20board%20Bessie%20for%20a%20week%3F%20She%27s%20the%20sweetest%20mare%21_%0AFrom%20%5Bbessies_ma%20%3Cbessies_ma.1973@example.com%3E%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="139" controlTypeID="com.balsamiq.mockups::Button" x="937" y="1143" w="110" h="46" measuredW="71" measuredH="27" zOrder="98" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Approve</text>
+      </controlProperties>
+    </control>
+    <control controlID="140" controlTypeID="com.balsamiq.mockups::StickyNote" x="1215" y="964" w="109" h="112" measuredW="109" measuredH="123" zOrder="99" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Is%20a%20%60mailto%3A%60%20link%20that%20opens%20your%20mail%20client</text>
+      </controlProperties>
+    </control>
+    <control controlID="142" controlTypeID="com.balsamiq.mockups::Button" x="1062" y="1143" w="110" h="46" measuredW="62" measuredH="27" zOrder="100" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Reject</text>
+      </controlProperties>
+    </control>
+    <control controlID="143" controlTypeID="com.balsamiq.mockups::Arrow" x="1154" y="1063" w="79" h="53" measuredW="150" measuredH="100" zOrder="101" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>-1</curvature>
+        <direction>bottom</direction>
+        <rightArrow>false</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="144" controlTypeID="com.balsamiq.mockups::Arrow" x="924" y="645" w="37" h="142" measuredW="150" measuredH="100" zOrder="103" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <leftArrow>true</leftArrow>
+        <rightArrow>false</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="145" controlTypeID="com.balsamiq.mockups::Arrow" x="1114" y="294" w="126" h="346" measuredW="150" measuredH="100" zOrder="104" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>-1</curvature>
+        <direction>top</direction>
+        <leftArrow>true</leftArrow>
+        <rightArrow>false</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="146" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="1358" y="791" w="267" h="645" measuredW="450" measuredH="400" zOrder="105" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>AirStable%0Ahttp%3A//airstable.com/</text>
+      </controlProperties>
+    </control>
+    <control controlID="147" controlTypeID="com.balsamiq.mockups::Title" x="1383" y="891" w="-1" h="-1" measuredW="179" measuredH="43" zOrder="106" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Air%20Stable</text>
+      </controlProperties>
+    </control>
+    <control controlID="148" controlTypeID="com.balsamiq.mockups::Paragraph" x="1383" y="934" w="194" h="15" measuredW="275" measuredH="80" zOrder="107" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Share%20a%20%22Neigh%22-borly%20stable%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="149" controlTypeID="__group__" x="1358" y="1370" w="267" h="38" measuredW="267" measuredH="38" zOrder="108" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="267" h="38" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="149">
+          <controlProperties>
+            <color>10066329</color>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::LinkBar" x="18" y="11" w="-1" h="-1" measuredW="230" measuredH="20" zOrder="1" locked="false" isInGroup="149">
+          <controlProperties>
+            <size>14</size>
+            <text>Dashboard%2C%20Find%20a%20Stall%2C%20Log%20Out</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="150" controlTypeID="com.balsamiq.mockups::Arrow" x="1166" y="919" w="192" h="61" measuredW="150" measuredH="100" zOrder="109" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>-1</curvature>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="152" controlTypeID="com.balsamiq.mockups::Label" x="1377" y="1026" w="-1" h="-1" measuredW="70" measuredH="21" zOrder="110" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Description%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="153" controlTypeID="com.balsamiq.mockups::Label" x="1377" y="960" w="-1" h="-1" measuredW="29" measuredH="21" zOrder="111" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Title%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="154" controlTypeID="com.balsamiq.mockups::Label" x="1377" y="1129" w="-1" h="-1" measuredW="27" measuredH="21" zOrder="113" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>City%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="155" controlTypeID="com.balsamiq.mockups::Label" x="1377" y="1180" w="-1" h="-1" measuredW="92" measuredH="21" zOrder="114" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>State/Province%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="156" controlTypeID="com.balsamiq.mockups::Label" x="1377" y="1241" w="-1" h="-1" measuredW="100" measuredH="21" zOrder="115" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Zip/Postal%20Code%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="157" controlTypeID="com.balsamiq.mockups::TextArea" x="1377" y="1047" w="233" h="75" measuredW="200" measuredH="140" zOrder="112" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipiscing%20elit.%20Nam%20volutpat%2C%20dolor%20vel%20facilisis%20egestas%2C%20orci%20orci%20sollicitudin%20erat%2C%20in%20lacinia%20libero%20nibh%20a%20leo.%20Duis%20congue%20sem%20ac%20nunc%20dictum%2C%20quis%20pharetra%20lacus%20scelerisque.%20Praesent%20ullamcorper%20libero%20sed%20arcu%20dapibus%20aliquam.</text>
+      </controlProperties>
+    </control>
+    <control controlID="158" controlTypeID="com.balsamiq.mockups::TextInput" x="1377" y="984" w="233" h="-1" measuredW="141" measuredH="27" zOrder="116" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ace%20Acres%20North%20Stall</text>
+      </controlProperties>
+    </control>
+    <control controlID="159" controlTypeID="com.balsamiq.mockups::TextInput" x="1377" y="1153" w="233" h="-1" measuredW="64" measuredH="27" zOrder="117" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Oakland</text>
+      </controlProperties>
+    </control>
+    <control controlID="160" controlTypeID="com.balsamiq.mockups::TextInput" x="1377" y="1204" w="233" h="-1" measuredW="32" measuredH="27" zOrder="118" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>CA</text>
+      </controlProperties>
+    </control>
+    <control controlID="161" controlTypeID="com.balsamiq.mockups::TextInput" x="1377" y="1262" w="233" h="-1" measuredW="52" measuredH="27" zOrder="119" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>94610</text>
+      </controlProperties>
+    </control>
+    <control controlID="162" controlTypeID="com.balsamiq.mockups::Button" x="1377" y="1306" w="233" h="57" measuredW="96" measuredH="27" zOrder="120" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Create%20Stall%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="163" controlTypeID="com.balsamiq.mockups::Arrow" x="1488" y="279" w="132" h="1038" measuredW="150" measuredH="100" zOrder="121" locked="false" isInGroup="-1">
+      <controlProperties>
+        <leftArrow>true</leftArrow>
+        <rightArrow>false</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="164" controlTypeID="com.balsamiq.mockups::StickyNote" x="1649" y="1334" w="109" h="110" measuredW="109" measuredH="123" zOrder="122" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Elongenated%20to%20show%20all%20fields%20in%20mockup</text>
+      </controlProperties>
+    </control>
+    <control controlID="165" controlTypeID="com.balsamiq.mockups::StickyNote" x="59" y="538" w="109" h="167" measuredW="109" measuredH="123" zOrder="123" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>This%20page%20is%20also%20what%27s%20shown%20if%20someone%20attempts%20to%20visit%20any%20other%20page%20and%20isn%27t%20logged%20in.</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

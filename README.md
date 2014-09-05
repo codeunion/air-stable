@@ -1,5 +1,7 @@
 # AirStable - AirBnB For Horses
 
+Yo!
+
 You have a horse. You want to travel with your horse; but all the commercial
 stables are absurdly expensive. Whatever do you do?!
 
